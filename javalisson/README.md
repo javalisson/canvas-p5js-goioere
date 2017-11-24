@@ -1,2 +1,2 @@
-# p5js-boilerplate
-Arquivos iniciais para um projeto usando a biblioteca p5.js.
+# p5js-javalisson exemplos goioere
+Exemplos do mini-curso de HTML Canvas com p5.js.
