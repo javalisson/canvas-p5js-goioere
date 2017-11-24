@@ -1,5 +1,5 @@
 /**
- * p5js boilerplate
+ * p5js everton exemplos goioere
  * 
  * 
  */
@@ -19,6 +19,9 @@ function setup() {
 // ou seja, a cada frame da animacao
 function draw() {
     // pinta o fundo de preto
-    background(0, 0, 0);
+    background(255, 255, 255);
 
+    rect(50,150, 25, 25);
+
+    ellipse(width/2, height/2, 150, 150);
 }
